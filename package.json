@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "0.0.0",
+  "description": "An example server using Node and a template enginde.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorlinV/node-template.git"
+  },
+  "author": "sorlinV <valentin.sorlin@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorlinV/node-template/issues"
+  },
+  "homepage": "https://github.com/sorlinV/node-template#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mustache": "^2.3.0"
+  }
+}
